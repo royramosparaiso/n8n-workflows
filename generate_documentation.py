@@ -1047,7 +1047,7 @@ def generate_html_documentation(data: Dict[str, Any]) -> str:
 <body>
     <div class="container">
         <div class="header">
-            <h1>📊 N8N Workflow Documentation</h1>
+            <h1>Ironbat - n8n Workflows Documentation</h1>
             <p class="subtitle">Comprehensive analysis and documentation of automated workflows</p>
             <p class="timestamp" id="generatedTimestamp">Generated: Loading...</p>
         </div>
